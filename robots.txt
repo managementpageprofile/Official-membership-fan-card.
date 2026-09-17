@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
+
+Sitemap: https://managementpageprofile.github.io/Official-membership-fan-card./sitemap.xml
